@@ -15,6 +15,19 @@ Formado em Sistemas de Informação pela UMC (2026). Gosto de construir coisas q
 | [trackrep-frontend](https://github.com/FernandoFariaHong/trackrep-frontend) | Interface do TrackRep: login, registro de treinos e estatísticas. | React, Vite |
 | [glue-athena-python-aws](https://github.com/FernandoFariaHong/glue-athena-python-aws) | Mini data lake: CSV no S3, ETL com Glue e consultas SQL no Athena. | Python, PySpark, AWS |
 
+## Formação
+
+**Bacharelado em Sistemas de Informação**, UMC (2026)
+
+**Formações complementares (Fundação Bradesco)**
+
+- Projetos de Sistema de TI (2022)
+- Desenvolvimento Orientado a Objetos Utilizando Linguagem Python (2022)
+- Fundamentos de TI: Hardware e Software (2023)
+- Administrando Banco de Dados (2024)
+- Implementando Banco de Dados (2024)
+- Modelagem de Dados (2024)
+
 ## Tecnologias com que mais trabalhei
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
