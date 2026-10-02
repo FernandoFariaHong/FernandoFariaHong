@@ -1,11 +1,11 @@
 # Oi, eu sou o Fernando 👋
 
-Estudo Sistemas de Informação e gosto de construir coisas que funcionam de ponta a ponta: do banco de dados até a tela. Ultimamente, também tenho me aprofundado em dados na nuvem.
+Formado em Sistemas de Informação pela UMC (2026). Gosto de construir coisas que funcionam de ponta a ponta, do banco de dados até a tela, e levo a sério a qualidade do que entrego: código testado, documentado e que outra pessoa consegue rodar. Ultimamente, tenho me aprofundado em dados na nuvem.
 
 ## O que estou fazendo
 
-- Meu TCC, o **TrackRep**, um sistema para registrar e acompanhar treinos de musculação.
-- Estudando engenharia de dados na AWS, com Python, Glue e Athena.
+- Concluí meu TCC, o **TrackRep**, um sistema para registrar e acompanhar treinos de musculação.
+- Aprofundando em engenharia de dados na AWS, com Python, Glue e Athena.
 
 ## Projetos
 
